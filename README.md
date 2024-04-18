@@ -5,7 +5,7 @@
 This repository applies a neuro-symbolic approach for enhancing multivariate time series prediction accuracy with application to context-aware human motion prediction 
 
 
-The scientific content of this work can be found @ https://arxiv.org/abs/2304.11740. To cite this work, please refer to the proceedings of the International Joint Conference on Neural Networks (IJCNN 2023), with the following citation:
+To cite this work, please refer to the proceedings of the International Joint Conference on Neural Networks (IJCNN 2023), with the following citation:
 
 ```
 @inproceedings{mghames2023,
