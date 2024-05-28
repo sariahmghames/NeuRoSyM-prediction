@@ -5,7 +5,7 @@
 This repository applies a neuro-symbolic approach for enhancing multivariate time series prediction accuracy with application to context-aware human motion prediction 
 
 
-To cite this work, please refer to the proceedings of the International Joint Conference on Neural Networks (IJCNN 2023), with the following citation:
+If you find this work useful, please cite the following paper:
 
 ```
 @inproceedings{mghames2023,
@@ -38,3 +38,8 @@ Please refer to the readme.md inside each architecture package
 We welcome any issue or collaborations. You can reach out @ sariahmghames@gmail.com
 
 ```
+
+## References
+
+Model Deployment: https://github.com/sariahmghames/neuROSym
+Causal Analysis for time-series data: https://github.com/lcastri/fpcmci
