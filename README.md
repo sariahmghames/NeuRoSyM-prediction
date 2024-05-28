@@ -42,4 +42,5 @@ We welcome any issue or collaborations. You can reach out @ sariahmghames@gmail.
 ## References
 
 Model Deployment: https://github.com/sariahmghames/neuROSym
+
 Causal Analysis for time-series data: https://github.com/lcastri/fpcmci
